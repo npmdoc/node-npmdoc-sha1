@@ -1,9 +1,14 @@
-# api documentation for  [sha1 (v1.1.1)](https://github.com/pvorb/node-sha1)  [![npm package](https://img.shields.io/npm/v/npmdoc-sha1.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sha1) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sha1.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sha1)
+# npmdoc-sha1
+
+#### api documentation for  [sha1 (v1.1.1)](https://github.com/pvorb/node-sha1)  [![npm package](https://img.shields.io/npm/v/npmdoc-sha1.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sha1) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sha1.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sha1)
+
 #### native js function for hashing messages with SHA-1
 
-[![NPM](https://nodei.co/npm/sha1.png?downloads=true)](https://www.npmjs.com/package/sha1)
+[![NPM](https://nodei.co/npm/sha1.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sha1)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-sha1/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-sha1_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sha1/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-sha1/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-sha1/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-sha1/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sha1/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-sha1/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Paul Vorbach",
-        "email": "paul@vorb.de",
         "url": "http://vorb.de"
     },
     "bugs": {
@@ -46,13 +50,11 @@
     "main": "sha1.js",
     "maintainers": [
         {
-            "name": "pvorb",
-            "email": "paul@vorb.de"
+            "name": "pvorb"
         }
     ],
     "name": "sha1",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/pvorb/node-sha1.git"
@@ -70,18 +72,6 @@
     "version": "1.1.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module sha1](#apidoc.module.sha1)
-1.  number <span class="apidocSignatureSpan">sha1.</span>_blocksize
-1.  number <span class="apidocSignatureSpan">sha1.</span>_digestsize
-
-
-
-# <a name="apidoc.module.sha1"></a>[module sha1](#apidoc.module.sha1)
 
 
 
